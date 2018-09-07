@@ -1,0 +1,1 @@
+UPDATE spell_proc_event SET procFlags = 4, Cooldown = 0 WHERE entry IN (31892);

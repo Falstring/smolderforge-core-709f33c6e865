@@ -1,0 +1,1 @@
+UPDATE spell_proc_event SET procFlags = 20, procEx=0 WHERE entry IN (9452,26016,26021);

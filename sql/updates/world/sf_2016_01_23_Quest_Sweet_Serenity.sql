@@ -1,0 +1,1 @@
+UPDATE gameobject_template SET ScriptName = "go_blacksmith_plans" WHERE entry=176325;
